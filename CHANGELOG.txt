@@ -1,0 +1,10 @@
+Version 0.02
+- Improved the enemy AI so that it can move forward and is no longer framerate dependant
+
+Version 0.01
+- Added a very basic AI to the enemy.
+
+Upcoming
+* Less jerky motion when the enemy moves
+* Improved level design.
+* Possible textures for weapons.
